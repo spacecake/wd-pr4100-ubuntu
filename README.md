@@ -308,3 +308,6 @@ Then resilver the pool with
 Track the resilver progress with
 `zpool status media`
 It took about 15 hours for a full 4TB WD red drive.
+
+## Update 1 - Broken on modern distribution as of 2025 bookworm and 24.04
+Use repository by [michaelroland](https://github.com/michaelroland/wdnas-hwdaemon/blob/master/README.md). It has some updated code.
